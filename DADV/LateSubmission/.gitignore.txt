@@ -1,2 +1,2 @@
 ../Assignments/.ipynb_checkpoints/
-data/
+data/*
